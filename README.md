@@ -12,3 +12,4 @@ MYSQL_PASSWORD=password
 MYSQL_DATABASE=database  
 GMAIL_USER=ejemplo@gmail.com  
 GMAIL_PASSWORD=aaaaaaaaaa
+MASTER_KEY=my_master_key
